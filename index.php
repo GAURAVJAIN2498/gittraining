@@ -1,4 +1,4 @@
 
 <?php
-print "hello from terrafrom"
+print "hello this site from terrafrom code"
 ?>
